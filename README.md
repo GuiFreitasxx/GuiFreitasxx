@@ -49,7 +49,7 @@
 </div>
  
  
-  ![Snake animation](https://github.com/GuiFreitasxx/GuiFreitasxx/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/guiFreitasxx/guiFreitasxx/blob/output/github-contribution-grid-snake.svg)
  
 
   

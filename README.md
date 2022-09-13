@@ -21,7 +21,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href=https://www.linkedin.com/in/guilherme-lucas-205b50203?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5qq72Sa6TM6utUm7HsLRxQ%3D%3D target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img align="right" width="250" height="250" style="border-radius:30px;" src="https://media.giphy.com/media/72nRya6nkX9jevGVFz/giphy.gif" />
+  <img align="right" width="200" height="200" style="border-radius:30px;" src="https://media.giphy.com/media/72nRya6nkX9jevGVFz/giphy.gif" />
   
   </div>
     <div align="center">
